@@ -18,3 +18,9 @@ Exercises should be tracked on some **git repository**, and **access to that rep
 
 Exercises should be completed in **groups of 2-3 students**. 
 **Grades** are based on the regular presentations of solutions, and **Q&A during these presentations**.
+
+## Tools
+
+  - GNU gprof: https://sourceware.org/binutils/docs/gprof/
+  - Google Benchmark: https://github.com/google/benchmark
+  - Perf: http://www.brendangregg.com/perf.html
